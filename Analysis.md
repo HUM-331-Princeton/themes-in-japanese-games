@@ -5,4 +5,4 @@ permalink: /Analysis/
 ---
 
 
-[Next Page]("/Modern")
+[Next Page](../Modern)

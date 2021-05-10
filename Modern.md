@@ -6,5 +6,5 @@ permalink: /Modern/
 
 
 
-[About]("/About")
-[Sources]("/Sources")
+[About](../About)
+[Sources](../Sources)

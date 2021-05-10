@@ -5,4 +5,4 @@ permalink: /Intro/
 ---
 
 
-[Next Page]("/Timeline")
+[Next Page](../Timeline)

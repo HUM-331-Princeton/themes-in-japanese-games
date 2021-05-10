@@ -5,4 +5,4 @@ permalink: /Timeline/
 ---
 
 
-[Next Page]("/Quant")
+[Next Page](../Quant)
