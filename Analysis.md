@@ -5,4 +5,4 @@ permalink: /Analysis/
 ---
 
 
-[Next Page]("{{ site.baseurl }}/Modern")
+[Next Page]("/Modern")

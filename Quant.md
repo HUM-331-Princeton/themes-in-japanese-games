@@ -5,4 +5,4 @@ permalink: /Quant/
 ---
 
 
-[Next Page]("{{ site.baseurl }}/Analysis")
+[Next Page]("/Analysis")

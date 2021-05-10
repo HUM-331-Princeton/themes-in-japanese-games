@@ -5,4 +5,4 @@ permalink: /Intro/
 ---
 
 
-[Next Page]("{{ site.baseurl }}/Timeline")
+[Next Page]("/Timeline")
