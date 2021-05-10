@@ -5,4 +5,4 @@ permalink: /Quant/
 ---
 
 
-[Next Page]("/Analysis")
+[Next Page](../Analysis)
