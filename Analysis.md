@@ -5,4 +5,4 @@ permalink: /Analysis/
 ---
 
 
-[Prev Page](../Quant) <div style="text-align: right"> [Next Page](../Modern) </div> 
+[Prev Page](../Quant) <div style="text-align: right"> <a href="../Modern">Next Page</a> </div> 
