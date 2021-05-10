@@ -6,6 +6,8 @@ permalink: /Modern/
 
 
 
+[Prev Page](../Quant)
+
 [About](../about)
 
 [Sources](../Sources)

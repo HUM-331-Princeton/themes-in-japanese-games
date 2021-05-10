@@ -6,7 +6,7 @@ permalink: /Quant/
 
 The Queries Collection was one of several texts in the Lapidus Collection to address the question of Jews in England and the Naturalization Act of 1753 in particular. The texts in the collection are drawn disproportionately from the year 1753 and represent debate around the Naturalization Act.
 
-To get a better sense of the historical context for these texts and the debate around the Naturalization Act,  I conducted systematic searches of the English Short Title Catalogue to look at the history of political debate in England around Jews and Judaism in general. Specifically, the decade-by-decade number of results on a search of the terms () is represented on the timeline below. 
+To get a better sense of the historical context for these texts and the debate around the Naturalization Act,  I conducted systematic searches of the English Short Title Catalogue to look at the history of political debate in England around Jews and Judaism in general. Specifically, the decade-by-decade number of results on a search of the terms () is represented on the timeline below.
 
 <iframe src="https://cdn.knightlab.com/libs/storyline/latest/embed/index.html?dataURL=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Oes4pUL0Kw-cQB_g2yf_F-D9IPtF3Gft3WxUMMlsHrY%2Fedit%3Fusp%3Dsharing&amp;dataYCol=workspublished&amp;dataXCol=year&amp;dataDateFormat=%25Y&amp;chartDateFormat=%25Y&amp;chartYLabel=works%20published&amp;sliderCardTitleCol=title&amp;sliderCardTextCol=text" style="width:100%;height:650px;" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0"></iframe>
 
@@ -40,4 +40,4 @@ It is no surprise, then, that we don’t see any real improvements to the Jewish
 The text this site focuses on presents a case study of the debate around the Naturalization Act that occurred in England in 1753, where we will see arguments from both sides and how the distribution of anti-semitic arguments and misleading narratives set the scene for almost a century of stalled progress in the advancement of the status of Jews in England.  
 
 
-[Next Page](../Analysis)
+[Prev Page](../Timeline) <div style="text-align: right"> [Next Page](../Analysis) </div> 
