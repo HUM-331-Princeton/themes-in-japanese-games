@@ -17,4 +17,4 @@ The text analyzed here was one of almost 100 recorded published writings in Engl
 The text I am focusing on is a back and forth argument in the form of a compiled series of letters, prefaced by a publisher/editors introduction:
 ![Cover](https://iiif-cloud.princeton.edu/iiif/2/65%2F15%2F9d%2F65159d3311e847f1a986e57ae4eb9f88%2Fintermediate_file/full/1151,/0/default.jpg)
 
-<div style="text-align: right"> [Next Page](../Timeline) </div>
+<div style="text-align: right"> <a href="../Timeline">Next Page</a> </div> 

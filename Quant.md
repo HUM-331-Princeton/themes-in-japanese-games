@@ -40,4 +40,5 @@ It is no surprise, then, that we don’t see any real improvements to the Jewish
 The text this site focuses on presents a case study of the debate around the Naturalization Act that occurred in England in 1753, where we will see arguments from both sides and how the distribution of anti-semitic arguments and misleading narratives set the scene for almost a century of stalled progress in the advancement of the status of Jews in England.  
 
 
-[Prev Page](../Timeline) <div style="text-align: right"> [Next Page](../Analysis) </div> 
+[Prev Page](../Timeline)
+<div style="text-align: right"> <a href="../Analysis">Next Page</a> </div>
