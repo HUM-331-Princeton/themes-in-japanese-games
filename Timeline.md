@@ -4,7 +4,7 @@ title: History of the Status of Jews in England
 permalink: /Timeline/
 ---
 
-<iframe src="http://timemapper.okfnlabs.org/blinder_levi/final-project-time-mapper?embed=1" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
+<iframe src="http://timemapper.okfnlabs.org/blinder_levi/final-project-time-mapper?embed=1" style="border: none;" width="100%" height="780;" frameborder="0"></iframe>
 
 [Prev Page](../Intro)
 <div style="text-align: right"> <a href="../Quant">Next Page</a> </div>
