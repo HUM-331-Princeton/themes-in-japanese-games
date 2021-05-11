@@ -6,7 +6,7 @@ permalink: /Timeline/
 
 
 abc
-<iframe src="http://timemapper.okfnlabs.org/blinder_levi/final-project-time-mapper?embed=1" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
+<iframe src="http://timemapper.okfnlabs.org/blinder_levi/final-project-time-mapper?embed=1" frameborder="0" width="100%" height="780;"></iframe>
 abc
 
 [Prev Page](../Intro)
