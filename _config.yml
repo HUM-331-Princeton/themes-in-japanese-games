@@ -10,7 +10,7 @@ description: A historical analysis of a political debate following the Jewish Na
 
 # URL of an image you'd like to appear in your header.
 # It should be long and rectangular to feature as a banner image.
-banner: "Banner.png"
+banner: "{{ site.baseurl }}/Banner.png"
 #
 # Flags below are optional
 #
