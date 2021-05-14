@@ -3,11 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Toleration Of Jews In England
+name: 
 
 # Short bio or description (displayed in the header)
-description: A historical analysis of a political debate following the Jewish Naturalization Act of 1753 in England
-
+description:
 # URL of an image you'd like to appear in your header.
 # It should be long and rectangular to feature as a banner image.
 banner: "https://hum-331-princeton.github.io/toleration-of-jews-in-england/Banner.png"
