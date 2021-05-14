@@ -10,7 +10,7 @@ description: This is where you describe your project in a sentence.
 
 # URL of an image you'd like to appear in your header.
 # It should be long and rectangular to feature as a banner image.
-banner:
+banner: "Banner.png"
 #
 # Flags below are optional
 #
