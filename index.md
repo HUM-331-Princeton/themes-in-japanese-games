@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Primary Text
-permalink: /Intro/
+permalink: /
 ---
 
 <img src="https://iiif-cloud.princeton.edu/iiif/2/65%2F15%2F9d%2F65159d3311e847f1a986e57ae4eb9f88%2Fintermediate_file/full/1151,/0/default.jpg" width="300" height="500" style="float:left;margin:0px 10px 5px 0px">
