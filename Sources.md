@@ -40,4 +40,5 @@ permalink: /Sources/
 ### Miscellaneous sources for additional research:
 
 ![The Jew Bill of 1753...](https://www.jstor.org/stable/30053433)
-![Anglo-Jewish Opinion…](https://www.jstor.org/stable/29777970)  
+![Anglo-Jewish Opinion…](https://www.jstor.org/stable/29777970)
+![Public Opinion, Propaganda…](https://books.google.com/books?hl=en&lr=&id=mVStnZWUW_AC&oi=fnd&pg=PA1&ots=Y-BrSROPLT&sig=qw8LhePWTuqDUQrkphbqo3jyWfs#v=onepage&q&f=false)
