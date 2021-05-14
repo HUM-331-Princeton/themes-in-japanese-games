@@ -19,4 +19,4 @@ The text analyzed here was one of almost 100 recorded published writings in Engl
 The text I am focusing on is a back and forth argument in the form of a compiled series of letters, prefaced by a publisher/editors introduction:
 
 
-<div style="text-align: right"> <a href="../Timeline">Next Page</a> </div>
+<div style="text-align: right"> <a href="../Timeline">Timeline</a> </div>

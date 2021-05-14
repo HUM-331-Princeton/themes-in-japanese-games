@@ -26,8 +26,7 @@ However, before we consider the implications of the observed timeline trends, we
 
 Prior work has already charted the overall annual publication rate as captured by the ESTC (cite), and the figure reproduced below shows that publication increased steadily over the three centuries between 1500 and 1800,with a linear increase between 1600 and 1725 followed by spiking sharply in the later half of the 18th century.
 
-
-
+![ESTC fig]("../PublicationRates.png")
 
 
 In particular, the first observation of a higher rate from the 1650s and onwards is not as clear cut as it would initially appear. That being said, the trend does still hold, at least looking relatively soon after the 1650’s. The jump in Jewish-related publication rate from the 1630’s to 1660’s is about a tenfold increase, which is certainly higher than the jump in base publication rate that seems to be around a twofold or threefold increase. On the other hand, if we look after the Naturalization Act to the 1770’s or 1780’s, we see a tenfold increase in Jew-related publication rate from the 1630’s to 1660’s, which is similar to the increase in base publication rate over the same time period. Overall, we can now more accurately interpret the general trend in Jew-related publication rate as showing an sudden increase when Jews were permitted to return to England in the 1650’s, but also a decrease throughout the late 1600’s and 1700’s that eventually brings the rate down to pre-1650 levels in the late 18th century.
@@ -37,8 +36,8 @@ Overall, this is a worrying sign for the question of Jewish toleration, since th
 
 It is no surprise, then, that we don’t see any real improvements to the Jewish status in England until 1830, nearly a century later.
 
-The text this site focuses on presents a case study of the debate around the Naturalization Act that occurred in England in 1753, where we will see arguments from both sides and how the distribution of anti-semitic arguments and misleading narratives set the scene for almost a century of stalled progress in the advancement of the status of Jews in England.  
+The text this site focuses on presents a case study of the debate around the Naturalization Act that occurred in England in 1753, where we will see arguments from both sides and how the distribution of anti-semitic arguments and misleading narratives set the scene for almost a century of stalled progress in the advancement of the status of Jews in England.
 
 
-[Prev Page](../Timeline)
-<div style="text-align: right"> <a href="../Analysis">Next Page</a> </div>
+[Timeline](../Timeline)
+<div style="text-align: right"> <a href="../Analysis">Textual Analysis</a> </div>
