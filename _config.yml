@@ -10,7 +10,7 @@ description: A historical analysis of a political debate following the Jewish Na
 
 # URL of an image you'd like to appear in your header.
 # It should be long and rectangular to feature as a banner image.
-banner: "{{ site.baseurl }}/Banner.png"
+banner: "https://hum-331-princeton.github.io/toleration-of-jews-in-england/Banner.png"
 #
 # Flags below are optional
 #
