@@ -271,6 +271,7 @@ img {
   color: #666;
   font-size: 16px;
   align-self: center;
+  align-items: center;
 }
 
 @media screen and (max-width: 640px) {
