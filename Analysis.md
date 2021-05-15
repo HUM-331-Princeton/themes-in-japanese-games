@@ -8,6 +8,6 @@ permalink: /Analysis/
 
 [Quantitative History](../Quant)
 
-[About](../about)
-
 [Sources](../Sources)
+
+[About](../about)
