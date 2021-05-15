@@ -24,7 +24,7 @@ These particularly high rates of publication owe to widespread debates over tole
 
 However, before we consider the implications of the observed timeline trends, we should notice that this interpretation of the timeline fails to take into account the base rate of publication as recorded in the ESTC, which shows increases throughout the time periods in question. This is important to consider because we can’t otherwise tell if these increases are because the Jews and Judaism are becoming more salient or just because there were more texts in general being written and/or archived.
 
-Prior work has already charted the overall annual publication rate as captured by the ESTC (cite), and the figure reproduced below shows that publication increased steadily over the three centuries between 1500 and 1800,with a linear increase between 1600 and 1725 followed by spiking sharply in the later half of the 18th century.
+Prior work has already charted the overall annual publication rate as captured by the ESTC (cite), and the figure reproduced below shows that publication increased steadily over the three centuries between 1500 and 1800, with a linear increase between 1600 and 1725 followed by spiking sharply in the later half of the 18th century.
 
 ![ESTC fig](./PublicationRates.png)
 
