@@ -12,11 +12,11 @@ This particular exchange is part of a larger flurry of publications responding t
 
 The online collection features more than 360 scanned books, pamphlets and prints from Sid Lapidus’ collection of more than 2200 items gifted to the Library in 2009. Accordingly, Lapidus collected items related to the American Revolution, its origins and its consequences, and the abolition of slave trade in Great Britain and the US.
 
-Among these texts are a set that focus on the political debate surrounding the status of Jews in England. This collection includes the original … during Cromwell, and the debate a century later on toleration of ‘the Jews’ precipitated by 1753 Jewish Naturalization Act.
+Among these texts are a set that focus on the political debate surrounding the status of Jews in England. This collection includes texts from the original resettlement during Cromwell's protectorate around 1650, and the debate a century later on toleration of ‘the Jews’ precipitated by 1753 Jewish Naturalization Act.
 
 The text analyzed here was one of almost 100 recorded published writings in England in the year of the passage of the Naturalization Act that related Jews or Judaism. Many of these texts questioned the toleration of Jews in England, often with antisemitic arguments, and specifically focused on the recent Naturalization Act that had quickly passed through parliament without being brought  to public attention.  
 
-The text I am focusing on is a back and forth argument in the form of a compiled series of letters, prefaced by a publisher/editors introduction:
+The text I am focusing on is a back and forth argument in the form of a compiled series of letters, prefaced by a publisher/editors introduction, entitled "Some Queries Relative to the Jews; Occasioned by a late Sermon: with Some other Papers, occasioned by the Queries"
 
 
 <div style="text-align: right"> <a href="Timeline">Timeline</a> </div>
